@@ -44,8 +44,7 @@ Using the `scipy.optimize.curve_fit` implementation (Trust-Region Reflective alg
 This rigorous mathematical fitting effectively reconstructs the true underlying physiology, isolating the signal from heavy environmental and sensor noise without using destructive moving-average smoothing.
 
 <div align="center">
-  <!-- TODO: Save your optimization plot as plr_optimization.png in a 'docs' folder -->
-  <img src="docs/plr_optimization.png" alt="Optimization Results" width="700"/>
+  <img width="2462" height="1468" alt="image" src="https://github.com/user-attachments/assets/1d81fb87-9ef7-44c1-92a9-4db8b32edf13" />
   <p><i>The optimizer successfully converges, reconstructing the true physiological kernel from heavily noised observations.</i></p>
 </div>
 
